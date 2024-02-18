@@ -1,0 +1,20 @@
+# npm
+node_modules
+npm-debug.log*
+
+# Editors
+.idea
+.vscode
+*.iml
+
+# Build artifacts
+/src/**/*.js
+/src/**/*.d.ts
+/check/**/*.js
+/check/**/*.d.ts
+/filter/**/*.js
+/filter/**/*.d.ts
+
+# Misc
+/coverage
+.DS_Store
